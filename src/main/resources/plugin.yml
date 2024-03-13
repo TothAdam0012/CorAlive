@@ -1,0 +1,4 @@
+name: CorAlive
+version: '${project.version}'
+main: hu.xm.coralive.CorAlive
+api-version: 1.20

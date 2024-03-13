@@ -1,0 +1,5 @@
+# Enables turning coral into its dead variant with a crafting recipe.
+enable-recipes: true
+
+# Enables turning dead coral into its alive variant with a crafting recipe.
+enable-reverse-recipes: false
